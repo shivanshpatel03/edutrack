@@ -1,1 +1,1 @@
-# edutrack
+# mini
